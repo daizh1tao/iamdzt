@@ -1,16 +1,16 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+  首页: /
+  归档: /archives
 
 # Default post title
 default_post_title: Untitled
 
 # Default post cover index page
-default_cover_index: "http://placehold.it/450x450"
+default_cover_index: "https://picjumbo.com/wp-content/uploads/lago-di-braies-preview-3.jpg"
 
 # Default post cover index page
-default_cover_detail: "http://placehold.it/1300x500"
+default_cover_detail: "https://picjumbo.com/wp-content/uploads/lago-di-braies-best-photos.jpg"
 
 # Favicon
 favicon: ""
@@ -39,10 +39,11 @@ google_analytics:
 
 # Social Accounts
 twitter_url:
-facebook_url: https://www.facebook.com/
-behance_url: https://www.behance.net/
-googleplus_url: https://plus.google.com/+Pixelhint/posts
-dribble_url: https://dribbble.com/pixelhint
+facebook_url:
+behance_url:
+googleplus_url:
+dribble_url:
 rss_url:
 instagram_url:
 youtube_url:
+github_url: https://github.com/daizh1tao

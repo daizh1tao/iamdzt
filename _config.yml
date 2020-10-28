@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+title: 凡生の
+subtitle: '一个平凡人的经历'
+description: 'a Coder, a Man, a student'
+keywords: 前端 摄影 运动 健身 游泳
+author: 凡生
 language: en
 timezone: ''
 
@@ -103,4 +103,6 @@ theme: magnetic
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  message: update
+  repo: root@106.53.116.18:/usr/share/nginx/blog.git
